@@ -5,5 +5,11 @@ def working_remote():
 def another_function():
   return "This returns a string"
 
+def colleagues_method(s="best!"):
+  base_string = "My home offcie is the "
+  return base_string+s
+
+
+
 
   
