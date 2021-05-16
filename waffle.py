@@ -11,5 +11,9 @@ def colleagues_method(s="best!"):
 
 
 
+def new_feature(s="Awesome!"):
+  base_text = "Working from home is "
+  return base_text+s
 
+  
   
