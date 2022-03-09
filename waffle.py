@@ -10,6 +10,10 @@ def colleagues_method(s="best!"):
   return base_string+s
 
 
+if __name__ == "__main__":
+  working_remote()
+
+
 
 
   
